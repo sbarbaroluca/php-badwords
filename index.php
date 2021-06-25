@@ -19,11 +19,9 @@
    <title>Badwords php</title>
  </head>
  <body>
-
     <h1>Badwords</h1>
     <p><?php echo $testoFiltro?></p>
     <h3>Lunghezza testo: <?php echo strlen($testoFiltro)?> caratteri</h3>
     <h4>La parola è <?php echo $parola?></h4>
-   
  </body>
  </html>
