@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 25px;
+  font-family:"Roboto", sans-serif;
+}
+h1 {
+  margin: 20px 0;
+}
+p {
+  margin: 25px 0;
+  font-size: 22px;
+}
